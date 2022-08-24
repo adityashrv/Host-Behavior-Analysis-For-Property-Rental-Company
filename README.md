@@ -1,6 +1,6 @@
 # Host-Behavior-Analysis-For-Property-Rental-Company
 # https://drive.google.com/drive/folders/1itjiCi63IHgNw6aV1gVee6XpIUGl-1IS?usp=sharing
-## This project is of AirBNB in this i have analyzed how property rental owner can become superhost from host
+## This project is of AirBNB in this i have analyzed how rental property owner can become superhost from host
 ## DATA OVERVIEW
 ![image](https://user-images.githubusercontent.com/111194246/186385103-58638b1d-7cd5-46ff-a2d1-ad79922f63bc.png)
 ### I have imported the datasets from CSV to sql server
