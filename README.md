@@ -13,7 +13,7 @@
 #### 5. comments of reviewers vary for listings of Super Hosts vs Other Hosts
 #### 6. Trends between Local Hosts or Hosts residing in other locations
 ## Tech Stack Used 
-MS-SQL, Powerpoint, Excel
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ## DATA OVERVIEW
 ![image](https://user-images.githubusercontent.com/111194246/186385103-58638b1d-7cd5-46ff-a2d1-ad79922f63bc.png)
 ### I have imported the datasets from CSV to sql server
