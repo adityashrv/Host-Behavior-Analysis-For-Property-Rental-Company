@@ -3,7 +3,7 @@
  https://drive.google.com/drive/folders/1itjiCi63IHgNw6aV1gVee6XpIUGl-1IS?usp=sharing
 ## This project is of AirBNB in this i have analyzed how rental property owner can become superhost from host
 ## Data Analysis with Zomato Bangalore data
-- Dataset has been taken by Kaggle for two cities of Candata (Toronto and Vancouver),  it can be found in my reprository.
+- Dataset has been taken by Kaggle for two cities of Candata (Toronto and Vancouver). 
 ## Features -
 #### 1. User interactive Presentation
 #### 2. Different metrics to give the insight between Super Host and Other Hosts on 
@@ -18,19 +18,3 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ## DATA OVERVIEW
 ![image](https://user-images.githubusercontent.com/111194246/186385103-58638b1d-7cd5-46ff-a2d1-ad79922f63bc.png)
-
-## Queries for expected result
-
-## top 3 crucial metrics one needs to maintain to become a Super Host and also, find their average reviws.
-
-##  how does the comments of reviewers vary for listings of Super Hosts vs Other Hosts (Extract words from the comments provided by the reviewers)
-
-## Do Super Hosts tend to have large property types as compared to Other Hosts
-
-
-##  Analyze the average price and availability of the listings for the upcoming year between Super Hosts and Other Hosts
-
-
-##  Analyze if there is some difference in above mentioned trends between Local Hosts or Hosts residing in other locations
-
-
