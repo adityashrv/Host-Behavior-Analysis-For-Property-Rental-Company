@@ -2,6 +2,8 @@
 ## Download the file & open in M.S Powerpoint for Best Experience
  https://drive.google.com/drive/folders/1itjiCi63IHgNw6aV1gVee6XpIUGl-1IS?usp=sharing
 ## This project is of AirBNB in this i have analyzed how rental property owner can become superhost from host
+## Data Analysis with Zomato Bangalore data
+- Dataset has been taken by Kaggle for two cities of Candata (Toronto and Vancouver),  it can be found in my reprository.
 ## Features -
 #### 1. User interactive Presentation
 #### 2. Different metrics to give the insight between Super Host and Other Hosts on 
