@@ -5,7 +5,7 @@
 ## Data Analysis with Zomato Bangalore data
 - Dataset has been taken by Kaggle for two cities of Candata (Toronto and Vancouver). 
 ## Features -
-#### 1. User interactive Presentation
+#### 1. User interactive Presentation, can be seen in my repository 
 #### 2. Different metrics to give the insight between Super Host and Other Hosts on 
 - Instant booking
 - Identity verified 
